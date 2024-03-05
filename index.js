@@ -103,9 +103,6 @@ bot.on('message', async (msg) => {
 
 @hqooosjjd
 
-⛔ رابط الشرح يوتيوب
-
-👨‍🏫 https://youtu.be/gn0CUNNe7Ow?si=onmhSb2UyZ7VyXHq
 
 "إن الله بما تعملون بصير"
 `);
